@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "AI-Powered Research Starter Kit"
+message: "If you use or adapt this project, please cite it."
+type: software
+authors:
+  - family-names: "Gannon"
+    given-names: "Kyle"
+version: "0.1.0"
+date-released: "2026-09-08"
+repository-code: "https://github.com/GannoK/AI-Powered-Research-Starter-kit"
+license: "CC-BY-4.0"
