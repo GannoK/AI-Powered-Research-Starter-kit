@@ -12,6 +12,42 @@ It can also confidently cite material that does not support a claim, repeat seco
 
 The problem is not that AI cannot help with research. The problem is that **research needs a method for deciding what the evidence actually supports**.
 
+## Revelation is not verification
+
+Telling an LLM, **“Research this and tell me the truth,”** without checking its sources is like starting a religion because one guy woke up from a dream and said:
+
+> **“God told me.”**
+
+No scripture. No witnesses. No corroboration.
+
+Just confidence.
+
+The problem is not that the revelation was not delivered confidently enough. The problem is that a defensible conclusion requires evidence, provenance, corroboration, competing explanations, and a serious attempt to determine whether you might be wrong.
+
+AI can help enormously with that process.
+
+**But it cannot replace the process.**
+
+A second way to think about it:
+
+> Asking an LLM to **“research this and tell me the truth”** without a research methodology is like asking a detective to solve a murder by interviewing one witness and then writing the closing argument.
+
+**One witness is not an investigation. One citation is not a conclusion.**
+
+And asking AI to **“find sources proving I’m right”** is not research methodology.
+
+**It is building a prosecution.**
+
+Three rules worth remembering:
+
+- **Revelation is not verification.**
+- **One citation is not a conclusion.**
+- **Research the question—not your preferred answer.**
+
+A useful operating principle for AI-assisted research is:
+
+> **AI output is a lead until evidence supports the relevant conclusion.**
+
 ## Core rules
 
 > **AI is not a source.**
