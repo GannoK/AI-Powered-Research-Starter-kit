@@ -77,6 +77,18 @@ Before inventing a new methodology, framework, scoring system, or experiment, us
 
 Profiles change the evidence burden. They are not certificates.
 
+## Download and use it
+
+For the fastest path, download the release ZIP and follow [`INSTALL_INTO_YOUR_RESEARCH_WORKFLOW.md`](INSTALL_INTO_YOUR_RESEARCH_WORKFLOW.md).
+
+The kit is designed to be copied into an existing research workspace, AI project, project-knowledge collection, or RAG-backed workflow. You do not need to adopt every file at once.
+
+## Current release
+
+**v0.1.0 — Public Preview**
+
+This release establishes the core evidence/claims/authority workflow. A deeper standards-reconciliation pass is planned before a 1.0 release, particularly for domain-specific formal research and high-assurance use.
+
 ## Quick start
 
 1. Read `OPEN_THIS_FIRST.md`.
