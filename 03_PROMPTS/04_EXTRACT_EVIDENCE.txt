@@ -1,0 +1,1 @@
+Extract evidence without adding interpretation. Record the exact finding/proposition, source location, conditions/population, method, limitations, direction relative to the current claim, and verification status. Flag ambiguity instead of resolving it silently.

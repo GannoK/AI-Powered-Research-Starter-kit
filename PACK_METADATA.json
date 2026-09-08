@@ -1,0 +1,14 @@
+{
+  "name": "AI-Powered Research Starter Kit",
+  "version": "0.1.0",
+  "status": "bootstrap-candidate",
+  "repository": "https://github.com/GannoK/AI-Powered-Research-Starter-kit",
+  "license": "CC-BY-4.0",
+  "creator": "Kyle Gannon (GannoK)",
+  "method_selection": "ADOPT -> PROFILE -> EXTEND -> BUILD",
+  "profiles": [
+    "EXPLORATORY",
+    "EVIDENCE-BASED",
+    "HIGH ASSURANCE"
+  ]
+}

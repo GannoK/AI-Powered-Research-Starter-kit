@@ -1,0 +1,1 @@
+Write a synthesis that is traceable to the claims ledger. Distinguish established evidence, provisional interpretation, recommendation, and accepted decision. Preserve uncertainty and disagreements. Do not increase certainty beyond the underlying evidence.

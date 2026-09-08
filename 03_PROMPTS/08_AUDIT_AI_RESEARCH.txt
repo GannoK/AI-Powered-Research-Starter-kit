@@ -1,0 +1,1 @@
+Audit this AI-assisted research. Check every material claim against its cited evidence, trace citations to originals where appropriate, detect citation laundering, confirmation bias, causal overreach, stale sources, omitted contradictory evidence, hidden assumptions, and unsupported certainty. Return blockers separately from improvements.
