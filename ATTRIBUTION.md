@@ -1,8 +1,14 @@
-# Attribution
+# Attribution and Provenance
 
-Preferred attribution:
+The **AI-Powered Research Starter Kit** was created by **Kyle Gannon (GannoK)**.
 
-> AI-Powered Research Starter Kit by Kyle Gannon (GannoK), licensed under CC BY 4.0.
+Historical v0.1.0 public-preview distributions were released under **CC BY 4.0**. Current v0.2.0+ distributions by the copyright owner are proprietary and all rights are reserved unless expressly stated otherwise.
+
+See:
+- `LICENSE`
+- `LICENSE_HISTORY.md`
+- `COPYRIGHT.md`
+- `THIRD_PARTY_NOTICES.md`
 
 Repository:
 https://github.com/GannoK/AI-Powered-Research-Starter-kit

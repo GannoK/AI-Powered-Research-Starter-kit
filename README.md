@@ -4,6 +4,8 @@ A beginner-friendly framework for conducting rigorous, evidence-driven research 
 
 This project is for people who want the leverage of AI research tools without treating a fluent answer, a search result, or a citation as proof.
 
+> **Licensing notice:** Current v0.2.0+ distributions are proprietary and all rights are reserved. Earlier v0.1.0 distributions were released under CC BY 4.0 and those historical grants are not revoked. See `LICENSE` and `LICENSE_HISTORY.md`.
+
 ## The problem
 
 AI can make research dramatically faster. It can search, summarize, compare, organize, brainstorm, and synthesize.
@@ -115,15 +117,17 @@ Profiles change the evidence burden. They are not certificates.
 
 ## Download and use it
 
-For the fastest path, download the release ZIP and follow [`INSTALL_INTO_YOUR_RESEARCH_WORKFLOW.md`](INSTALL_INTO_YOUR_RESEARCH_WORKFLOW.md).
+Current distributions are controlled by the proprietary license in `LICENSE`. Do not copy, redistribute, adapt, or commercialize the current version unless you have written authorization.
 
-The kit is designed to be copied into an existing research workspace, AI project, project-knowledge collection, or RAG-backed workflow. You do not need to adopt every file at once.
+Authorized users should follow [`INSTALL_INTO_YOUR_RESEARCH_WORKFLOW.md`](INSTALL_INTO_YOUR_RESEARCH_WORKFLOW.md).
 
 ## Current release
 
-**v0.1.0 — Public Preview**
+**v0.2.0 — Proprietary Baseline**
 
-This release establishes the core evidence/claims/authority workflow. A deeper standards-reconciliation pass is planned before a 1.0 release, particularly for domain-specific formal research and high-assurance use.
+This release preserves the research methodology while changing the active distribution model from the historical CC BY 4.0 public preview to a proprietary, all-rights-reserved baseline. See `LICENSE_HISTORY.md`.
+
+A deeper standards-reconciliation pass remains planned before a 1.0 release, particularly for domain-specific formal research and high-assurance use.
 
 ## Quick start
 
@@ -140,8 +144,12 @@ This release establishes the core evidence/claims/authority workflow. A deeper s
 
 ## License
 
-Original project content is licensed under **CC BY 4.0** except where otherwise noted.
+Copyright © 2026 Kyle Gannon. All Rights Reserved.
 
-Preferred attribution:
+Current v0.2.0+ distributions are proprietary. No public license is granted except as expressly stated in a separate written authorization or agreement and subject to rights necessarily arising under applicable law or hosting-platform terms.
 
-> AI-Powered Research Starter Kit by Kyle Gannon (GannoK), licensed under CC BY 4.0.
+Historical v0.1.0 copies distributed under CC BY 4.0 remain governed by that historical grant. See `LICENSE_HISTORY.md`.
+
+## Contributions
+
+Substantive contributions are not accepted as project-owned intellectual property without an appropriate signed contributor, employment, contractor, or IP-assignment agreement. See `CONTRIBUTING.md` and `LEGAL/CONTRIBUTOR_POLICY.md`.

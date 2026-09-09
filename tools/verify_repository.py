@@ -11,9 +11,15 @@ REQUIRED = [
     "README.md",
     "OPEN_THIS_FIRST.md",
     "LICENSE",
+    "COPYRIGHT.md",
+    "LICENSE_HISTORY.md",
+    "THIRD_PARTY_NOTICES.md",
     "ATTRIBUTION.md",
     "PACK_METADATA.json",
     "MANIFEST_SHA256.txt",
+    "LEGAL/IP_OWNERSHIP_POLICY.md",
+    "LEGAL/CONTRIBUTOR_POLICY.md",
+    "LEGAL/AI_ASSISTED_AUTHORSHIP_POLICY.md",
     "02_RESEARCH_KNOWLEDGE_TEMPLATE/60_EVIDENCE_LEDGER.md",
     "02_RESEARCH_KNOWLEDGE_TEMPLATE/70_CLAIMS_LEDGER.md",
     "02_RESEARCH_KNOWLEDGE_TEMPLATE/90_CANDIDATE_INTERPRETATIONS.md",
@@ -30,8 +36,10 @@ for rel in REQUIRED:
         fail(f"required file missing: {rel}")
 
 meta = json.loads((ROOT / "PACK_METADATA.json").read_text(encoding="utf-8"))
-if meta.get("license") != "CC-BY-4.0":
-    fail("PACK_METADATA.json license must be CC-BY-4.0")
+if meta.get("license") != "Proprietary-All-Rights-Reserved":
+    fail("PACK_METADATA.json license must be Proprietary-All-Rights-Reserved")
+if meta.get("version") != "0.2.0":
+    fail("PACK_METADATA.json version must be 0.2.0")
 if meta.get("method_selection") != "ADOPT -> PROFILE -> EXTEND -> BUILD":
     fail("method-selection invariant changed")
 
