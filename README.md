@@ -6,6 +6,20 @@ This project is for people who want the leverage of AI research tools without tr
 
 > **Licensing notice:** Current v0.2.0+ distributions are proprietary and all rights are reserved. Earlier v0.1.0 distributions were released under CC BY 4.0 and those historical grants are not revoked. See `LICENSE` and `LICENSE_HISTORY.md`.
 
+## I want you to break this
+
+This project improves when people challenge it. If you work in research, engineering, scientific methods, evidence synthesis, statistics, decision analysis, safety, security, academia, or another evidence-heavy field, I would especially value critical review.
+
+Please look for things such as:
+
+- Where is the methodology wrong, incomplete, or internally inconsistent?
+- What established research method, standard, or evidentiary practice is misrepresented or missing?
+- Where could the workflow encourage confirmation bias, weak evidence, or false confidence?
+- What works for general technical research but breaks down in a specific academic, scientific, regulated, or high-assurance discipline?
+- What part sounds rigorous without actually improving the reliability of the conclusion?
+
+Concrete criticism is more useful than praise. If possible, identify the failure mode, point to authoritative evidence or established methodology, and suggest a reproducible way to test or improve the framework. Feedback should challenge the method, not merely agree with its conclusions. Issues are welcome under the repository's contribution and licensing rules.
+
 ## The problem
 
 AI can make research dramatically faster. It can search, summarize, compare, organize, brainstorm, and synthesize.
