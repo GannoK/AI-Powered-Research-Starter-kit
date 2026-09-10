@@ -60,6 +60,42 @@ A useful operating principle for AI-assisted research is:
 
 > **Do not ask only what supports your hypothesis. Ask what would prove it wrong.**
 
+## Standards and methodology foundations
+
+This kit is not based on a single invented "AI research method." It is a beginner-usable synthesis of established practices from research methodology, systems engineering, architecture, decision analysis, assurance, software engineering, and scientific reasoning.
+
+Representative intellectual and organizational foundations include:
+
+- **INCOSE Systems Engineering Handbook** — life-cycle thinking, requirements discipline, verification, validation, risk, and traceability.
+- **NASA Systems Engineering Handbook** and **NASA Risk-Informed Decision Making Handbook** — staged engineering, trade studies, uncertainty, risk, decision framing, and evidence-based gates.
+- **ISO/IEC/IEEE 15288** — system life-cycle processes and disciplined engineering activities.
+- **ISO/IEC/IEEE 42010** — architecture descriptions organized around stakeholders, concerns, viewpoints, and explicit architectural rationale.
+- **ISO/IEC 25010** and the **ISO/IEC/IEEE 15026 family** — quality characteristics, assurance concepts, and evidence-supported confidence.
+- **Carnegie Mellon Software Engineering Institute** methods such as QAW, ADD, ATAM, SAAM, and CBAM — quality attributes, architecture tradeoffs, structured review, and cost/benefit reasoning.
+- **Architecture Decision Records (ADRs)** — preserving the context, rationale, consequences, and status of consequential decisions.
+- **Set-Based Design** and Ward, Liker, Cristiano & Sobek's work on the "Second Toyota Paradox" — keeping multiple viable alternatives open until evidence justifies convergence.
+- **Influence diagrams, sensitivity analysis, Value of Information, and formal decision analysis** — making uncertainty and decision consequences explicit instead of hiding them inside prose.
+- **RAND Robust Decision Making** — looking for strategies that remain acceptable across uncertain futures rather than optimizing for one assumed future.
+- **Design Structure Matrices and related dependency-mapping methods** — making coupling, interaction, and change propagation visible.
+- **Evolutionary architecture and fitness functions** — continuously checking whether an evolving system still satisfies important architectural properties.
+- **STAMP/STPA safety-analysis methods** — reasoning about unsafe control actions, interactions, and system-level hazards in consequential systems.
+- **Design Science Research Methodology and empirical software-engineering practices** — separating problem framing, artifact design, evaluation, evidence collection, and conclusions.
+- **Scientific falsification, corroboration, provenance, uncertainty recording, and competing-hypothesis analysis** — actively asking what would disprove a claim rather than searching only for supporting evidence.
+
+Where the research concerns software, security, AI, or technology governance, the kit can also profile applicable authorities such as **NIST, OWASP, CISA, OpenSSF, IETF, W3C, IEEE, ISO/IEC, and domain-specific standards bodies**. The applicable authority depends on the research question; no single standards list is treated as universally sufficient.
+
+These sources are **foundations and reference points**, not a claim that this kit is itself an ISO, NASA, INCOSE, NIST, scientific, or regulatory standard. A domain's authoritative methods and standards remain authoritative over summaries or profiles in this repository.
+
+The method-selection rule is deliberately conservative:
+
+> **ADOPT → PROFILE → EXTEND → BUILD**
+>
+> Adopt a mature method when one already fits. Profile it to the actual question, consequence, uncertainty, and evidence burden. Extend only where a material requirement is missing. Build a bespoke method only when there is evidence that mature approaches cannot satisfy a necessary property.
+
+That foundation is why this kit emphasizes provenance, source hierarchy, claim/evidence separation, contradiction and falsification, explicit assumptions, uncertainty, reversible experiments, sensitivity analysis, decision traceability, and proportional rigor rather than treating an LLM's confidence as evidence.
+
+This is intentionally a **general research framework**, not a claim of complete methodology coverage for every academic or regulated discipline. Deeper domain-specific standards reconciliation remains planned before a 1.0 release, particularly for high-assurance research.
+
 ## The research chain
 
 Important conclusions should be traceable backward:
