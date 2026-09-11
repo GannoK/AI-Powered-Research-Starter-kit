@@ -1,0 +1,57 @@
+{
+  "format_version": "1.0",
+  "research_id": "RESEARCH-001",
+  "question": "",
+  "scope": "",
+  "method_profile": "",
+  "started_at": "",
+  "completed_at": "",
+  "searches": [
+    {
+      "query": "",
+      "tool": "",
+      "executed_at": "",
+      "filters": {}
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "SRC-001",
+      "uri": "",
+      "doi": "",
+      "version": "",
+      "published_at": "",
+      "accessed_at": "",
+      "last_checked_at": "",
+      "archive_uri": "",
+      "sha256": "",
+      "status": "ACTIVE"
+    }
+  ],
+  "ai_assistance": [
+    {
+      "provider": "",
+      "model": "",
+      "purpose": "",
+      "executed_at": "",
+      "human_verified": false
+    }
+  ],
+  "transformations": [
+    {
+      "input_ids": [],
+      "operation": "",
+      "output_ids": [],
+      "performed_at": ""
+    }
+  ],
+  "outputs": [
+    {
+      "output_id": "CLM-001",
+      "type": "claim",
+      "path": "",
+      "sha256": ""
+    }
+  ],
+  "notes": ""
+}

@@ -1,0 +1,60 @@
+{
+  "format_version": "1.0",
+  "nodes": [
+    {
+      "id": "SRC-001",
+      "type": "source",
+      "label": ""
+    },
+    {
+      "id": "EVD-001",
+      "type": "evidence",
+      "label": ""
+    },
+    {
+      "id": "CLM-001",
+      "type": "claim",
+      "label": ""
+    },
+    {
+      "id": "REC-001",
+      "type": "recommendation",
+      "label": ""
+    },
+    {
+      "id": "DEC-001",
+      "type": "decision",
+      "label": ""
+    }
+  ],
+  "edges": [
+    {
+      "from": "SRC-001",
+      "to": "EVD-001",
+      "relation": "SUPPORTS"
+    },
+    {
+      "from": "EVD-001",
+      "to": "CLM-001",
+      "relation": "SUPPORTS"
+    },
+    {
+      "from": "CLM-001",
+      "to": "REC-001",
+      "relation": "SUPPORTS"
+    },
+    {
+      "from": "REC-001",
+      "to": "DEC-001",
+      "relation": "SUPPORTS"
+    }
+  ],
+  "allowed_relations": [
+    "SUPPORTS",
+    "CONTRADICTS",
+    "QUALIFIES",
+    "SUPERSEDES",
+    "DERIVED_FROM",
+    "UNCERTAIN"
+  ]
+}

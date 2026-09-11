@@ -1,0 +1,27 @@
+{
+  "source_id": "SRC-001",
+  "title": "",
+  "authors": [],
+  "uri": "",
+  "doi": "",
+  "publisher": "",
+  "source_type": "",
+  "published_at": "",
+  "accessed_at": "",
+  "last_checked_at": "",
+  "version": "",
+  "status": "ACTIVE",
+  "status_values": [
+    "ACTIVE",
+    "CORRECTED",
+    "RETRACTED",
+    "SUPERSEDED",
+    "UNAVAILABLE",
+    "REVIEW_REQUIRED"
+  ],
+  "corrected_by": "",
+  "superseded_by": "",
+  "archive_uri": "",
+  "sha256": "",
+  "notes": ""
+}
