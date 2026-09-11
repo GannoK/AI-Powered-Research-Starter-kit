@@ -1,0 +1,35 @@
+{
+  "$schema": "schemas/assurance.schema.json",
+  "format_version": "1.0",
+  "project": "AI-Powered-Research-Starter-kit",
+  "project_type": "research-methodology-starter-kit",
+  "assurance_profile": "research-integrity-baseline",
+  "result_states": [
+    "PASS",
+    "FAIL",
+    "MANUAL",
+    "N/A",
+    "UNKNOWN",
+    "WAIVED"
+  ],
+  "required_checks": [
+    "repository_manifest_integrity",
+    "local_link_integrity",
+    "pinned_github_actions",
+    "least_privilege_workflow_permissions",
+    "research_provenance_templates",
+    "governance_presence"
+  ],
+  "manual_controls": [
+    "methodological_validity",
+    "source_quality_judgment",
+    "claim_sufficiency",
+    "conflict_resolution",
+    "ethical_and_legal_review"
+  ],
+  "release_requirements": {
+    "automated_failures_allowed": 0,
+    "unknown_requires_review": true,
+    "waivers_require_expiration": true
+  }
+}
